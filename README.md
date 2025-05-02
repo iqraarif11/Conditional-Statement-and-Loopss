@@ -1,1 +1,1 @@
-# Conditional-Statement-and-Loopss
+# Conditional-Statement-and-Loops
